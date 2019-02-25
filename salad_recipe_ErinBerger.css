@@ -1,0 +1,17 @@
+/*
+* Erin
+* February 25, 2019 
+* Salad Recipe 
+*/
+
+/* The universal selector */
+
+* . {
+
+}
+
+/* Body attributes here */
+
+body {
+    background-color: darkkhaki
+}
